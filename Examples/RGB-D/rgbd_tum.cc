@@ -1,3 +1,6 @@
+#include <unistd.h>
+#include <stdio.h>
+#include <stdlib.h>
 /**
 * This file is part of ORB-SLAM2.
 *
